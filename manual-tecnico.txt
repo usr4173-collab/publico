@@ -1,0 +1,1 @@
+Esto es un manual tecnico creado dentro de la rama 'documentacion', lo hemos creado manualmente dentro de la web en GitHub.
